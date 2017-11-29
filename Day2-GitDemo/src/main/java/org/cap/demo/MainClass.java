@@ -13,5 +13,6 @@ public class MainClass {
 		System.out.println("Good Morning");
 		System.out.println("Hello!");
 		System.out.println("Have a Good Day!");
+		System.out.println("Have a Good Day!");
 	}
 }
