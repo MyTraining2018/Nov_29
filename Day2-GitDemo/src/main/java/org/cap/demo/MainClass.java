@@ -14,5 +14,7 @@ public class MainClass {
 		System.out.println("Hello!");
 		System.out.println("Have a Good Day!");
 		System.out.println("Have a Good Day!");
+		System.out.println("Good afterNoon!");
+		System.out.println("Good afterNoon!");
 	}
 }
